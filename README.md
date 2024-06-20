@@ -1,22 +1,27 @@
 # Differential-robot-wrist
 
-<img src="Photos/bldc_grouped.png" alt="drawing" width="5000"/>
+<img src="Images/dif_gif.gif" alt="drawing" width="300"/>
 
 
-Spectral Micro is a brushless motor controller designed to offer affordable and capable hardware, complemented by open-source software. 
-* It supports multiple firmware options and integrates a 14-bit magnetic encoder, inline current sensing, CAN and UART data interface, and provides support for position, velocity, torque, and impedance control.
-* Everything you need for developing high-performance robotic solutions is included.
-* It is ideal for gimbal motors, quadrupeds, robotic arms, and grippers. Check the list of tested motors here!
+Due the high demand to built this awesome differential mechanism we decided to open source it even in this early stage so that people can build it and play around with it.<br />
+**Note thaT this is test fixture that we designed to test the mechanism for our future robots! Also note that this project is based on our motor driver product called [Spectral micro BLDC driver](https://source-robotics.com/products/spectral-micro-bldc-controller)**
+
+# How to make it?
+
+Step 1 - Source all the parts from the BOM
+Step 2 - print all the parts in STL folder (Note that some parts need to be printed twice)
+Step 3 - Assemble and calibrate the drivers
+Step 4 - Program and test it!
+Step 5 - Enjoy your differential mechanisam!
 
 # BOM
 
-# Building manual
+# STL files
 
-You can buy the Spectral Micro BLDC controller here: <br />
- https://source-robotics.com/products/spectral-micro-bldc-controller
+# Assembly manual
 
-# Code examples
-Spectral firmware is located [here](https://github.com/PCrnjak/Spectral-Micro-BLDC-controller/tree/main/Spectral%20BLDC%20Firmware). To install it follow [this guide!](https://source-robotics.github.io/Spectral-BLDC-docs/apage3_flashing_firmware/)
+# Programs
+
 
 
 
