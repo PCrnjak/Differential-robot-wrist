@@ -3,24 +3,24 @@
 <img src="Images/dif_gif.gif" alt="drawing" width="300"/>
 
 
-Due the high demand to built this awesome differential mechanism we decided to open source it even in this early stage so that people can build it and play around with it.<br />
-**Note thaT this is test fixture that we designed to test the mechanism for our future robots! Also note that this project is based on our motor driver product called [Spectral micro BLDC driver](https://source-robotics.com/products/spectral-micro-bldc-controller)**
+Due the high demand to built this awesome differential mechanism we decided to open source it even in this early stage.<br />
+**Note that this is test fixture that we designed to test the mechanism for our future robots! Also note that this project is based on our motor driver product called [Spectral micro BLDC driver](https://source-robotics.com/products/spectral-micro-bldc-controller)**
 
 # How to make it?
 
-Step 1 - Source all the parts from the BOM
-Step 2 - print all the parts in STL folder (Note that some parts need to be printed twice)
-Step 3 - Assemble and calibrate the drivers
-Step 4 - Program and test it!
-Step 5 - Enjoy your differential mechanisam!
-
+Step 1 - Source all the parts from the BOM <br />
+Step 2 - print all the parts in STL folder (Note that some parts need to be printed twice) <br />
+Step 3 - Assemble and calibrate the drivers <br />
+Step 4 - Program and test it! <br />
+Step 5 - Enjoy your differential mechanisam! <br />
+ 
 # BOM
 
 # STL files
 
 # Assembly manual
 
-# Programs
+# Code and dependency
 
 
 
