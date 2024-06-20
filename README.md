@@ -8,17 +8,14 @@ Due the high demand to built this awesome differential mechanism we decided to o
 
 # How to make it?
 
-Step 1 - Source all the parts from the BOM <br />
-Step 2 - print all the parts in STL folder (Note that some parts need to be printed twice) <br />
-Step 3 - Assemble and calibrate the drivers <br />
+Step 1 - Source all the parts from the [BOM](https://github.com/PCrnjak/Differential-robot-wrist/tree/main/BOM) <br />
+Step 2 - print all the parts in [STL folder](https://github.com/PCrnjak/Differential-robot-wrist/tree/main/STLS) (Note that some parts need to be printed twice) <br />
+Step 3 - Assemble the differential and [calibrate the drivers](https://source-robotics.github.io/Spectral-BLDC-docs/) <br />
 Step 4 - Program and test it! <br />
 Step 5 - Enjoy your differential mechanisam! <br />
  
-# BOM
-
-# STL files
-
 # Assembly manual
+
 
 # Code and dependency
 
